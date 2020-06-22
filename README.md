@@ -1,5 +1,9 @@
 # FullthrottleLabsAssignment
 
+Project has been deployed in the PythonAnywhere server and can be accessible through this url 
+
+http://vinayvasista.pythonanywhere.com/
+
 This Project is used to fetch REST API which describes a list of users &; their corresponding periods of activity across
 multiple months.
 
@@ -8,7 +12,7 @@ clone the project and requiremnts can be installed by requirements.txt file.
 API :
 
 In Home url  User API will be available.
-In activityperiod/ url Activity Period API will be available.
+In http://vinayvasista.pythonanywhere.com/activityperiod/ url Activity Period API will be available.
 
 
 To Populate data:
